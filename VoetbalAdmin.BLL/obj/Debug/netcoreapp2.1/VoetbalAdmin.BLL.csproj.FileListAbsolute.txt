@@ -1,0 +1,9 @@
+C:\Users\Younes\Desktop\Programmeren in .NET\VoetbalAdmin\VoetbalAdmin.BLL\bin\Debug\netcoreapp2.1\VoetbalAdmin.BLL.deps.json
+C:\Users\Younes\Desktop\Programmeren in .NET\VoetbalAdmin\VoetbalAdmin.BLL\bin\Debug\netcoreapp2.1\VoetbalAdmin.BLL.dll
+C:\Users\Younes\Desktop\Programmeren in .NET\VoetbalAdmin\VoetbalAdmin.BLL\bin\Debug\netcoreapp2.1\VoetbalAdmin.BLL.pdb
+C:\Users\Younes\Desktop\Programmeren in .NET\VoetbalAdmin\VoetbalAdmin.BLL\obj\Debug\netcoreapp2.1\VoetbalAdmin.BLL.csprojAssemblyReference.cache
+C:\Users\Younes\Desktop\Programmeren in .NET\VoetbalAdmin\VoetbalAdmin.BLL\obj\Debug\netcoreapp2.1\VoetbalAdmin.BLL.AssemblyInfoInputs.cache
+C:\Users\Younes\Desktop\Programmeren in .NET\VoetbalAdmin\VoetbalAdmin.BLL\obj\Debug\netcoreapp2.1\VoetbalAdmin.BLL.AssemblyInfo.cs
+C:\Users\Younes\Desktop\Programmeren in .NET\VoetbalAdmin\VoetbalAdmin.BLL\obj\Debug\netcoreapp2.1\VoetbalAdmin.BLL.csproj.CoreCompileInputs.cache
+C:\Users\Younes\Desktop\Programmeren in .NET\VoetbalAdmin\VoetbalAdmin.BLL\obj\Debug\netcoreapp2.1\VoetbalAdmin.BLL.dll
+C:\Users\Younes\Desktop\Programmeren in .NET\VoetbalAdmin\VoetbalAdmin.BLL\obj\Debug\netcoreapp2.1\VoetbalAdmin.BLL.pdb

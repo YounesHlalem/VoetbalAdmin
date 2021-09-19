@@ -1,0 +1,12 @@
+C:\Users\Younes\Desktop\Programmeren in .NET\VoetbalAdmin\VoetbalAdmin.DAL\bin\Debug\netcoreapp3.1\VoetbalAdmin.DAL.deps.json
+C:\Users\Younes\Desktop\Programmeren in .NET\VoetbalAdmin\VoetbalAdmin.DAL\bin\Debug\netcoreapp3.1\VoetbalAdmin.DAL.runtimeconfig.json
+C:\Users\Younes\Desktop\Programmeren in .NET\VoetbalAdmin\VoetbalAdmin.DAL\bin\Debug\netcoreapp3.1\VoetbalAdmin.DAL.runtimeconfig.dev.json
+C:\Users\Younes\Desktop\Programmeren in .NET\VoetbalAdmin\VoetbalAdmin.DAL\bin\Debug\netcoreapp3.1\VoetbalAdmin.DAL.dll
+C:\Users\Younes\Desktop\Programmeren in .NET\VoetbalAdmin\VoetbalAdmin.DAL\bin\Debug\netcoreapp3.1\VoetbalAdmin.DAL.pdb
+C:\Users\Younes\Desktop\Programmeren in .NET\VoetbalAdmin\VoetbalAdmin.DAL\obj\Debug\netcoreapp3.1\VoetbalAdmin.DAL.csprojAssemblyReference.cache
+C:\Users\Younes\Desktop\Programmeren in .NET\VoetbalAdmin\VoetbalAdmin.DAL\obj\Debug\netcoreapp3.1\VoetbalAdmin.DAL.AssemblyInfoInputs.cache
+C:\Users\Younes\Desktop\Programmeren in .NET\VoetbalAdmin\VoetbalAdmin.DAL\obj\Debug\netcoreapp3.1\VoetbalAdmin.DAL.AssemblyInfo.cs
+C:\Users\Younes\Desktop\Programmeren in .NET\VoetbalAdmin\VoetbalAdmin.DAL\obj\Debug\netcoreapp3.1\VoetbalAdmin.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Younes\Desktop\Programmeren in .NET\VoetbalAdmin\VoetbalAdmin.DAL\obj\Debug\netcoreapp3.1\VoetbalAdmin.DAL.dll
+C:\Users\Younes\Desktop\Programmeren in .NET\VoetbalAdmin\VoetbalAdmin.DAL\obj\Debug\netcoreapp3.1\VoetbalAdmin.DAL.pdb
+C:\Users\Younes\Desktop\Programmeren in .NET\VoetbalAdmin\VoetbalAdmin.DAL\obj\Debug\netcoreapp3.1\VoetbalAdmin.DAL.genruntimeconfig.cache

@@ -1,0 +1,9 @@
+C:\Users\Younes\Desktop\Programmeren in .NET\VoetbalAdmin\VoetbalAdmin.DataContracts\bin\Debug\netcoreapp3.1\VoetbalAdmin.DataContracts.deps.json
+C:\Users\Younes\Desktop\Programmeren in .NET\VoetbalAdmin\VoetbalAdmin.DataContracts\bin\Debug\netcoreapp3.1\VoetbalAdmin.DataContracts.dll
+C:\Users\Younes\Desktop\Programmeren in .NET\VoetbalAdmin\VoetbalAdmin.DataContracts\bin\Debug\netcoreapp3.1\VoetbalAdmin.DataContracts.pdb
+C:\Users\Younes\Desktop\Programmeren in .NET\VoetbalAdmin\VoetbalAdmin.DataContracts\obj\Debug\netcoreapp3.1\VoetbalAdmin.DataContracts.csprojAssemblyReference.cache
+C:\Users\Younes\Desktop\Programmeren in .NET\VoetbalAdmin\VoetbalAdmin.DataContracts\obj\Debug\netcoreapp3.1\VoetbalAdmin.DataContracts.AssemblyInfoInputs.cache
+C:\Users\Younes\Desktop\Programmeren in .NET\VoetbalAdmin\VoetbalAdmin.DataContracts\obj\Debug\netcoreapp3.1\VoetbalAdmin.DataContracts.AssemblyInfo.cs
+C:\Users\Younes\Desktop\Programmeren in .NET\VoetbalAdmin\VoetbalAdmin.DataContracts\obj\Debug\netcoreapp3.1\VoetbalAdmin.DataContracts.csproj.CoreCompileInputs.cache
+C:\Users\Younes\Desktop\Programmeren in .NET\VoetbalAdmin\VoetbalAdmin.DataContracts\obj\Debug\netcoreapp3.1\VoetbalAdmin.DataContracts.dll
+C:\Users\Younes\Desktop\Programmeren in .NET\VoetbalAdmin\VoetbalAdmin.DataContracts\obj\Debug\netcoreapp3.1\VoetbalAdmin.DataContracts.pdb
